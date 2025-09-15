@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/ImageManagerApp/obj
+/.vs
+/ImageManagerApp/.vs
+/ImageManagerApp.API/obj
+/ImageManagerApp.DB/obj

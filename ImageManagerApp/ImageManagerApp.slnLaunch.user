@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "New Profile",
+    "Projects": [
+      {
+        "Path": "ImageManagerApp.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "..\\ImageManagerApp.API\\ImageManagerApp.API.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
